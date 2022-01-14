@@ -11,10 +11,10 @@
 ### 1. Clone repository to your local machine
 ### 2. Open POSTMAN
 
-### 3.Adding object: method „POST” 
+### 3.Add object: method „POST” 
 Path: http://localhost:8080/app/add<br>
 Successfull request get response: 'status 200'.
-Headers: Key=”Content-Type”<br> Value=”application/json”
+Headers: Key=”Content-Type”<br> Value=”application/json”<br>
 Body (JSON):
 
 a) either with specified userId
@@ -35,7 +35,7 @@ b) or userId set for null, then the lowest unique number will be picked up for j
 ````
 ![postman post](post.png)
 
-### 4. Displaying list: method „GET” 
+### 4. Display list: method „GET” 
 Path: http://localhost:8080/app/list<br>
 Returns list of objects from database.<br>
 Successfull request get response: 'status 200'.
