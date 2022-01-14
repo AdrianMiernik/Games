@@ -49,7 +49,7 @@ JSON:
 },
 
 {
-"userId": null,
+"userId": 2,
 "gameId": 18,
 "action": "register"
 },
