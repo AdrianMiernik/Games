@@ -55,7 +55,7 @@ JSON:
 },
 
 {
-"userId": 5,
+"userId": 3,
 "gameId": 48,
 "action": "suspend"
 }]
