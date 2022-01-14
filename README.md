@@ -33,6 +33,7 @@ b) or userId set for null, then the lowest unique number will be picked up for j
 "action": "register"
 }]
 ````
+![postman post](post.png)
 
 ### 4. Displaying list: method „GET” 
 Path: http://localhost:8080/app/list<br>
@@ -59,3 +60,7 @@ JSON:
 "action": "suspend"
 }]
 ````
+![postman get](get.png)
+
+### 5. MySql view
+![database](db.png)
