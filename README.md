@@ -26,7 +26,7 @@ a) either with specified userId
 "action": "grant pro access"
 }]
 ````
-b) or userId set for null, then the lowest unique number will be picked up for jpa
+b) or userId set to null, then the lowest unique number will be picked up by jpa
 ````json
 [{
 "userId": null,
