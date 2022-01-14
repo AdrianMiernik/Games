@@ -11,12 +11,13 @@
 ### 1. Clone repository to your local machine
 ### 2. Open POSTMAN
 
-### 3.Add object: method „POST” 
+### 3. Add object: method „POST” 
 Path: http://localhost:8080/app/add<br>
-Successfull request get response: 'status 200'.
-Headers: Key=”Content-Type”<br> Value=”application/json”<br>
-Body (JSON):
+Successfull request get response: 'status 200'.<br>
+Headers: Key=”Content-Type”<br> 
+Value=”application/json”<br>
 
+Body (JSON):
 a) either with specified userId
 ````json
 [{
