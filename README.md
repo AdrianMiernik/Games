@@ -17,7 +17,7 @@ Successfull request get response: 'status 200'.<br>
 Headers: Key=”Content-Type”<br> 
 Value=”application/json”<br>
 
-Body (JSON):
+Body (JSON):<br>
 a) either with specified userId
 ````json
 [{
